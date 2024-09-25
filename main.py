@@ -1,3 +1,4 @@
+# 参考https://github.com/qq49371114/lx-music-api-server/blob/4ac0633d8eb395f53c1166e6f58550a8f638eb42/deps/pyqdes/main.cpp
 import zlib
 from enum import Enum
 
